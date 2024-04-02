@@ -1,0 +1,141 @@
+html,
+body,
+#root {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body,
+#root,
+.h-100 {
+  height: 100%;
+}
+
+html,
+body,
+#root,
+.w-100 {
+  width: 100%;
+}
+
+.bg-dark {
+  background: #171616;
+}
+
+.bg-white {
+  background: white;
+}
+
+.font-dark {
+  color: #000 !important;
+}
+
+.font-white {
+  color: white !important;
+}
+
+.font-green {
+  color: #00b96b;
+}
+
+.font-red {
+  color: #ea5151;
+}
+
+.ant-btn-override {
+  min-height: 48px;
+  border-radius: 5px;
+  border-start-end-radius: 5px !important;
+  border-start-start-radius: 5px !important;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-white {
+  color: #ffffff;
+}
+
+.text-uppercase {
+  text-transform: uppercase;
+}
+
+.fw-bold {
+  font-weight: bold;
+}
+
+.text-capital {
+  text-transform: capitalize;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.text-grey {
+  color: #808080 !important;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.isClickable {
+  cursor: pointer;
+}
+
+.global-padding {
+  padding: 40px;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.radio-label {
+  font-size: 1rem !important;
+  font-weight: 500;
+}
+
+.no-hover:hover {
+  outline: none;
+  border-color: unset !important;
+}
+
+.no-hover-text:hover {
+  color: inherit !important;
+  background-color: transparent !important;
+}
+
+.text-main {
+  font-size: 1rem;
+}
+
+.text-dull {
+  font-size: 0.625rem;
+  font-weight: 400;
+  margin: 0;
+}
+
+.site-description-item-profile-wrapper {
+  margin-bottom: 7px;
+  color: rgba(0, 0, 0, 0.65);
+  font-size: 14px;
+  line-height: 1.5715;
+}
+
+.site-description-item-profile-p-label {
+  display: inline-block;
+  margin-right: 8px;
+  color: rgba(0, 0, 0, 0.85);
+}
