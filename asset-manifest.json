@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Auction-Managment-System/static/css/main.5fdc6004.css",
+    "main.js": "/Auction-Managment-System/static/js/main.71bee4d3.js",
+    "static/media/slick.svg": "/Auction-Managment-System/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Auction-Managment-System/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Auction-Managment-System/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Auction-Managment-System/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Auction-Managment-System/index.html",
+    "main.5fdc6004.css.map": "/Auction-Managment-System/static/css/main.5fdc6004.css.map",
+    "main.71bee4d3.js.map": "/Auction-Managment-System/static/js/main.71bee4d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fdc6004.css",
+    "static/js/main.71bee4d3.js"
+  ]
+}
